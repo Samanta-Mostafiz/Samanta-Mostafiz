@@ -22,11 +22,11 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React and Vue.js**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/sites/reliable-gumption-5f14d4/overview](https://app.netlify.com/sites/reliable-gumption-5f14d4/overview)
+- 👨‍💻 My Protfolio [https://app.netlify.com/sites/reliable-gumption-5f14d4/overview](https://app.netlify.com/sites/reliable-gumption-5f14d4/overview)
 
 - 📫 How to reach me **samantamostafizriya@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1x9U-Ykihs-n7ZIdxolQJDHdF0i2CogDG/view?usp=sharing](https://drive.google.com/file/d/1x9U-Ykihs-n7ZIdxolQJDHdF0i2CogDG/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1x9U-Ykihs-n7ZIdxolQJDHdF0i2CogDG/view?usp=sharing](https://drive.google.com/file/d/1x9U-Ykihs-n7ZIdxolQJDHdF0i2CogDG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
