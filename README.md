@@ -1,4 +1,4 @@
-## Assalamu Oalaikum  I am Samanta
+
 
 <!--
 **Samanta-Mostafiz/Samanta-Mostafiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
