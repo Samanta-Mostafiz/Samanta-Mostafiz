@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
-- 🔭 I’m currently working on **React and Vue.js**
+- 🔭 I’m currently working on **React**
 
 - 🌱 I’m currently learning **React and Vue.js**
 
