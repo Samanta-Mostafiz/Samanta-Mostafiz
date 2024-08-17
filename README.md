@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **React and Vue.js**
+- 🌱 I'll work on **Vue.js**
 
 - 👨‍💻 My Protfolio [https://app.netlify.com/sites/reliable-gumption-5f14d4/overview](https://app.netlify.com/sites/reliable-gumption-5f14d4/overview)
 
