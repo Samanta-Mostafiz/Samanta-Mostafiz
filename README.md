@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **samantamostafizriya@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1x9U-Ykihs-n7ZIdxolQJDHdF0i2CogDG/view?usp=sharing](https://drive.google.com/file/d/1x9U-Ykihs-n7ZIdxolQJDHdF0i2CogDG/view?usp=sharing)
+- 📄 My Resume [[https://drive.google.com/file/d/1x9U-Ykihs-n7ZIdxolQJDHdF0i2CogDG/view?usp=sharing](https://drive.google.com/file/d/1x9U-Ykihs-n7ZIdxolQJDHdF0i2CogDG/view?usp=sharing)](https://drive.google.com/file/d/1g33409J8NoM8Itppe0ZRHJI8ldX1Tt-t/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
