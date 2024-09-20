@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **samantamostafizriya@gmail.com**
 
-- 📄 My Resume [[https://drive.google.com/file/d/1x9U-Ykihs-n7ZIdxolQJDHdF0i2CogDG/view?usp=sharing](https://drive.google.com/file/d/1x9U-Ykihs-n7ZIdxolQJDHdF0i2CogDG/view?usp=sharing)](https://drive.google.com/file/d/1g33409J8NoM8Itppe0ZRHJI8ldX1Tt-t/view?usp=sharing)
-
+- 📄 My Resume https://drive.google.com/file/d/1PTTi3I8w2UYay7VO2aH_8fnUGs7SM5OC/view?usp=sharing
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/samanta-mostafiz-89304a315/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samanta-mostafiz-89304a315/" height="30" width="40" /></a>
