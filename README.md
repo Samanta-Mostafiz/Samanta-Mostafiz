@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **React**
 
-- 🌱I've an professional experince of product testing and documentation
+- 🌱I've  professional experince of product testing and documentation
 
 - 👨‍💻 My Protfolio [https://app.netlify.com/sites/reliable-gumption-5f14d4/overview](https://app.netlify.com/sites/reliable-gumption-5f14d4/overview)
 
