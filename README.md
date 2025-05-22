@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Assalamu Oalaikum 👋, I'm Samanta Mostafiz</h1>
-<h3 align="center">A passionate frontend designer and Aspiring product tester from Bangladesh</h3>
+<h3 align="center">A passionate aspiring product tester from Bangladesh</h3>
 
 
 - 🔭 I’m currently working on **React**
